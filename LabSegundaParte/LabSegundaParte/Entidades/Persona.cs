@@ -1,4 +1,5 @@
-﻿using System;
+﻿using LabSegundaParte.Negocio;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -42,6 +43,10 @@ namespace LabSegundaParte.Entidades
             this.Edad = edad;
             this.Peso = peso;
             this.Altura = altura;
+        }
+
+        public Persona()
+        {
         }
 
         public override string ToString()

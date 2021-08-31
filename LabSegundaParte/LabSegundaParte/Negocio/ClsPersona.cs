@@ -11,7 +11,7 @@ namespace LabSegundaParte.Negocio
     {
         Persona pers = new Persona();
 
-        public String calcularIMC()
+        public String calcularIMC(Persona pers)
         {
             double pro = pers.Peso / Math.Pow(pers.Altura, 2);
 
@@ -19,11 +19,11 @@ namespace LabSegundaParte.Negocio
             {
                 return "el peso es ideal";
             }
-            if (pro > 25 )
-            {
+            else
+            
                 return "tiene sobre peso";
-            }
-            return "";
+            
+            
         }
 
         public String MayorDeEdad()

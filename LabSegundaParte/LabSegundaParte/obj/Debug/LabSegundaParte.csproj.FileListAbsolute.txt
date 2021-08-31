@@ -1,0 +1,7 @@
+C:\Users\MINEDUCYT\OneDrive\GitHub\LabSegundaParte\LabSegundaParte\LabSegundaParte\obj\Debug\LabSegundaParte.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\OneDrive\GitHub\LabSegundaParte\LabSegundaParte\LabSegundaParte\obj\Debug\LabSegundaParte.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\OneDrive\GitHub\LabSegundaParte\LabSegundaParte\LabSegundaParte\bin\Debug\LabSegundaParte.exe.config
+C:\Users\MINEDUCYT\OneDrive\GitHub\LabSegundaParte\LabSegundaParte\LabSegundaParte\bin\Debug\LabSegundaParte.exe
+C:\Users\MINEDUCYT\OneDrive\GitHub\LabSegundaParte\LabSegundaParte\LabSegundaParte\bin\Debug\LabSegundaParte.pdb
+C:\Users\MINEDUCYT\OneDrive\GitHub\LabSegundaParte\LabSegundaParte\LabSegundaParte\obj\Debug\LabSegundaParte.exe
+C:\Users\MINEDUCYT\OneDrive\GitHub\LabSegundaParte\LabSegundaParte\LabSegundaParte\obj\Debug\LabSegundaParte.pdb

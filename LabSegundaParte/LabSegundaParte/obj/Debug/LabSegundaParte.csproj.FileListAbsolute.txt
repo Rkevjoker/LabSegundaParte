@@ -5,3 +5,10 @@ C:\Users\MINEDUCYT\OneDrive\GitHub\LabSegundaParte\LabSegundaParte\LabSegundaPar
 C:\Users\MINEDUCYT\OneDrive\GitHub\LabSegundaParte\LabSegundaParte\LabSegundaParte\bin\Debug\LabSegundaParte.pdb
 C:\Users\MINEDUCYT\OneDrive\GitHub\LabSegundaParte\LabSegundaParte\LabSegundaParte\obj\Debug\LabSegundaParte.exe
 C:\Users\MINEDUCYT\OneDrive\GitHub\LabSegundaParte\LabSegundaParte\LabSegundaParte\obj\Debug\LabSegundaParte.pdb
+C:\Users\Rkev\OneDrive\Escritorio\POO\LabSegundaParte\LabSegundaParte\LabSegundaParte\bin\Debug\LabSegundaParte.exe.config
+C:\Users\Rkev\OneDrive\Escritorio\POO\LabSegundaParte\LabSegundaParte\LabSegundaParte\bin\Debug\LabSegundaParte.exe
+C:\Users\Rkev\OneDrive\Escritorio\POO\LabSegundaParte\LabSegundaParte\LabSegundaParte\bin\Debug\LabSegundaParte.pdb
+C:\Users\Rkev\OneDrive\Escritorio\POO\LabSegundaParte\LabSegundaParte\LabSegundaParte\obj\Debug\LabSegundaParte.csproj.AssemblyReference.cache
+C:\Users\Rkev\OneDrive\Escritorio\POO\LabSegundaParte\LabSegundaParte\LabSegundaParte\obj\Debug\LabSegundaParte.csproj.CoreCompileInputs.cache
+C:\Users\Rkev\OneDrive\Escritorio\POO\LabSegundaParte\LabSegundaParte\LabSegundaParte\obj\Debug\LabSegundaParte.exe
+C:\Users\Rkev\OneDrive\Escritorio\POO\LabSegundaParte\LabSegundaParte\LabSegundaParte\obj\Debug\LabSegundaParte.pdb

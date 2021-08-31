@@ -30,14 +30,14 @@ namespace LabSegundaParte
             double altura = Convert.ToDouble(Console.ReadLine());
 
 
-            Persona persona = new Persona(nombre, sexo, edad, peso, altura);
-            Persona pers = new Persona(nombre, sexo, edad);
+            Persona cons1 = new Persona(nombre, sexo, edad, peso, altura);
+            Persona cons2 = new Persona(nombre, sexo, edad);
 
             ClsPersona cls = new ClsPersona();
-            Console.WriteLine(cls.calcularIMC(pers));
-            Console.WriteLine(cls.MayorDeEdad());
+            Console.WriteLine(cls.calcularIMC(cons1));
+            Console.WriteLine(cls.MayorDeEdad(cons1));
 
-            Console.WriteLine(persona.ToString());
+            Console.WriteLine(cons1.ToString());
             Console.ReadLine();
 
 
